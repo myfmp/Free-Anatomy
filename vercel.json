@@ -1,5 +1,4 @@
 {
-  "version": 2,
   "builds": [
     {
       "src": "FreeAnatomy/wsgi.py",
@@ -10,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "FreAnatomy/wsgi.py"
+      "dest": "FreeAnatomy/wsgi.py"
     }
   ]
 }
