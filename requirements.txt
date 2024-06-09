@@ -2,6 +2,7 @@ Django==4.2.9
 selenium==4.10.0
 webdriver-manager==3.8.6
 requests==2.31.0
+openai-whisper==20231117
 whisper==1.0
 beautifulsoup4==4.12.2
 lxml==4.9.3  # Used by BeautifulSoup
