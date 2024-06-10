@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'FreeAnatomyApp.wsgi.application'
+WSGI_APPLICATION = 'FreeAnatomy.wsgi.application'
 
 
 # Database
