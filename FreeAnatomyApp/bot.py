@@ -21,8 +21,6 @@ from selenium.webdriver.common.by import By
 
 warnings.filterwarnings("ignore")
 
-model = whisper.load_model("base")
-
 def transcribe(url):
     with open('.temp', 'wb') as f:
         f.write(requests.get(url).content)
