@@ -9,5 +9,8 @@ requests==2.31.0
 openai-whisper==20231117
 whisper==1.0
 beautifulsoup4==4.12.2
-lxml==4.9.3  # Used by BeautifulSoup
+lxml==4.9.3  
 tempmail-python==2.3.3
+asgiref==3.7.2
+typing_extensions==4.7.0
+
